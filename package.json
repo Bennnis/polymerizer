@@ -1,0 +1,37 @@
+{
+  "name": "polymerizer",
+  "version": "1.0.0",
+  "description": "bundler",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bennnis/polymerizer.git"
+  },
+  "keywords": [
+    "js",
+    "bundle"
+  ],
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-html": "^4.0.3",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "babel-core": "6.26.0",
+    "babel-preset-es2015": "6.24.1"
+  },
+  "author": "bennnis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bennnis/polymerizer/issues"
+  },
+  "homepage": "https://github.com/Bennnis/polymerizer#readme"
+}
